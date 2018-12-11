@@ -13,7 +13,7 @@ Thanks to [@nunojesus](https://github.com/nunojesus) for this awesome Logo.
 
 ![player](./RepoAssets/player.gif)
 # Run app
-* Clone the repository.
+* Clone the repository using `git clone https://github.com/NJACKWinterOfCode/SoundHaven.git`
 * `cd SoundHaven`
 * `npm install`
 * `npm run electron`
