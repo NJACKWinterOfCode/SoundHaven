@@ -1,5 +1,9 @@
 # SoundHaven
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/sound-haven/Lobby#)
+
+[![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
 ### Using Electron and Angular 6
 ![LOGO](./RepoAssets/Logo/mainLogo.png)
 
@@ -9,7 +13,8 @@ Thanks to [@nunojesus](https://github.com/nunojesus) for this awesome Logo.
 
 ![player](./RepoAssets/player.gif)
 # Run app
-* Clone the repository.
+* Clone the repository using `git clone https://github.com/NJACKWinterOfCode/SoundHaven.git`
+* `cd SoundHaven`
 * `npm install`
 * `npm run electron`
 
@@ -22,6 +27,6 @@ Thanks to [@nunojesus](https://github.com/nunojesus) for this awesome Logo.
 | [Nityananda Gohain](https://github.com/nityanandagohain) | [Adirtha Borgohain](https://github.com/AdirthaBorgohain) | [Nuno Jesus](https://github.com/nunojesus) |
 
 # Contribution
-Contributors and more than welcome to contribute and suggest new ideas via issues. 
+Contributors are more than welcome to contribute and suggest new ideas via issues. 
 
 Gitter Channel : https://gitter.im/sound-haven/Lobby#
